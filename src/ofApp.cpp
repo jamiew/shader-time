@@ -21,7 +21,6 @@ void ofApp::draw(){
     
     // ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
     grabber.draw(0, 0, ofGetWidth(), ofGetHeight());
-
     
     shader.end();
     
